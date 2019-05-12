@@ -1,0 +1,2 @@
+# 2019_cmc_fintech
+2019招行fintech精英训练营线上赛第二题基于收支记录判断借贷意愿baseline(a榜第1名)
